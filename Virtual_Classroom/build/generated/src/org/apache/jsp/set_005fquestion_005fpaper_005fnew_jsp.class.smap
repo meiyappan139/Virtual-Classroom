@@ -1,0 +1,19 @@
+SMAP
+set_005fquestion_005fpaper_005fnew_jsp.java
+JSP
+*S JSP
+*F
++ 0 set_question_paper_new.jsp
+set_question_paper_new.jsp
+*L
+5,15:46
+21,12:61
+32,12:73
+44:85,3
+45:88,6
+46:94
+46:94,2
+47,45:96
+93,6:143
+98,5:149
+*E
